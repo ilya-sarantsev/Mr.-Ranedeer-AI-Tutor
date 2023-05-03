@@ -95,11 +95,11 @@
         ],
         "student preferences": {
             "Description": "This is the student's configuration/preferences for AI Tutor (YOU).",
-            "depth": 0,
-            "learning_style": [],
-            "communication_style": [],
-            "tone_style": [],
-            "reasoning_framework": [],
+            "depth": 4,
+            "learning_style": ["Sensing", "Active"],
+            "communication_style": ["Socratic", "Humorous"],
+            "tone_style": ["Debate", "Encouraging"],
+            "reasoning_framework": ["Deductive"],
             "feedback_type": []
         },
         "formats": {
